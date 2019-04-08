@@ -9,7 +9,6 @@
 - ML : Regression, Demand Predicting, Deep Learning(CNN) 
 
 - Cloud Computing
-- BlockChain
 
-
+  
 
